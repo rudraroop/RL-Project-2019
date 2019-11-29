@@ -7,3 +7,6 @@ Before running the simulation, install the below packages:
     https://www.dlr.de/ts/en/desktopdefault.aspx/tabid-9883/16931_read-41000/
 
 Run simulation.py file in cmd or simulation.ipynb in jupyter notebook with all libraries pre-installed.
+
+Presentation Link
+https://docs.google.com/presentation/d/1VbMwXaZXVcVVMNkpiQMq92AXDT1QZ74vfr1VWkcO1uc/edit?usp=sharing
